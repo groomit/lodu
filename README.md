@@ -1,2 +1,0 @@
-# lodu
-Created with CodeSandbox
